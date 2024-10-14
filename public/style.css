@@ -1,0 +1,44 @@
+.main{
+    padding: 20px;
+    font-family: Arial;
+    box-shadow: 5px  5px 7px 5px #8888;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30rem;
+    margin-top: 8rem;
+}
+
+.main h1{
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid #764776;
+
+}
+
+input[type=submit]{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    background-color: #764776;
+    border:none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+}
+
+p{
+    padding-top: 20px;
+    justify-content: center;
+    padding-left: 28rem;
+}
